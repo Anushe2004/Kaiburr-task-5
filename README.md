@@ -60,12 +60,12 @@ Kaiburr-Task-5
 ├── requirements.txt
 ├── README.md
 ├── outputs
-│   ├── model.joblib
-│   └── vectorizer.joblib
+│ ├── model.joblib
+│ └── vectorizer.joblib
 └── screenshots
-    ├── model_evaluation.png
-    ├── directories.png
-    └── prediction.png
+├── model_evaluation.png
+├── directories.png
+└── prediction.png
 
 **Note:** Task building, and screenshots are documented inside their respective folders.
 
@@ -114,6 +114,7 @@ sample_predictions.txt
 
 * Predictions
   <img width="1018" height="545" alt="Predictions" src="https://github.com/user-attachments/assets/49a7607b-abf5-4787-b131-407939413cce" />
+
 
 
 
