@@ -124,9 +124,10 @@ sample_predictions.txt
 This project is licensed under the **Unlicense** — free and open for anyone to use.
 
 ## 💖 Support
-If you like this project, please ⭐ **star the repo** and connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) 😊
+If you like this project, please ⭐ **star the repo** and connect with me on [LinkedIn](https://www.linkedin.com/in/anush-erappareddy-95a8352a2/) 😊
 
 ---
+
 
 
 
