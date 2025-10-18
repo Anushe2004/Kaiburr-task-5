@@ -1,4 +1,4 @@
-# 🧠 Kaiburr Data Science Virtual Internship - Task 5  
+# 🧠 Kaiburr Task 5  
 ### Text Classification of Consumer Complaints using Machine Learning  
 
 ---
@@ -115,6 +115,7 @@ sample_predictions.txt
 
 * Predictions
   <img width="1018" height="545" alt="Predictions" src="https://github.com/user-attachments/assets/49a7607b-abf5-4787-b131-407939413cce" />
+
 
 
 
