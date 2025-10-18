@@ -5,7 +5,7 @@
 
 ## 📋 Project Overview  
 
-This project is developed as part of the **Kaiburr Data Science Virtual Internship (Task 5)**.  
+This project is developed as part of the **Kaiburr Assessment - Task 5**.  
 The goal is to build a **text classification model** that automatically categorizes consumer complaints into relevant financial product categories using machine learning techniques.
 
 ---
@@ -115,6 +115,7 @@ sample_predictions.txt
 
 * Predictions
   <img width="1018" height="545" alt="Predictions" src="https://github.com/user-attachments/assets/49a7607b-abf5-4787-b131-407939413cce" />
+
 
 
 
