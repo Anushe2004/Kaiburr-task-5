@@ -52,18 +52,17 @@ A smaller version named **`complaints_sample.csv`** (first 1000 rows) is include
 
 ---
 
-📂 Folder Structure
+## High-level Directory Overview
 
-Kaiburr-Task-5/
-│
+Kaiburr-Task-5
 ├── main.py
 ├── complaints_sample.csv
 ├── requirements.txt
 ├── README.md
-├── outputs/
+├── outputs
 │   ├── model.joblib
 │   └── vectorizer.joblib
-└── screenshots/
+└── screenshots
     ├── model_evaluation.png
     ├── directories.png
     └── prediction.png
@@ -115,6 +114,7 @@ sample_predictions.txt
 
 * Predictions
   <img width="1018" height="545" alt="Predictions" src="https://github.com/user-attachments/assets/49a7607b-abf5-4787-b131-407939413cce" />
+
 
 
 
