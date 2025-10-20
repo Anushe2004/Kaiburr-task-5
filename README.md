@@ -29,7 +29,7 @@ The dataset used is the **Consumer Complaints Database** provided by the **U.S. 
 
 ⚠️ **Note:**  
 The full dataset is too large to upload to GitHub (>100 MB).  
-A smaller version named **`complaints_sample.csv`** (first 1000 rows) is included in this repository for demonstration and testing purposes.
+A smaller version named **`complaints_sample.csv`** (first 30000 rows) is included in this repository for demonstration and testing purposes.
 
 ---
 
@@ -127,6 +127,7 @@ This project is licensed under the **Unlicense** — free and open for anyone to
 If you like this project, please ⭐ **star the repo** and connect with me on [LinkedIn](https://www.linkedin.com/in/anush-erappareddy-95a8352a2/) 😊
 
 ---
+
 
 
 
